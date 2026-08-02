@@ -1,3 +1,5 @@
+// task 1
+
 console.log("JS is running successfully");
 window.alert("Ready to practice");
 
@@ -10,3 +12,4 @@ console.log(price);
 console.log(typeof price);
 console.log(isAailable);
 console.log(typeof isAailable);
+console.log("saif");
